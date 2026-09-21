@@ -1,4 +1,4 @@
-
+Faltou a pasta de Vídeos pois o Github não permitiu, o vídeo tinha mais que 25 mb, não deu tempo de mudar o vídeo.
 PROJETO: ACADEMIA OPUS
 
 O projeto possui 10 páginas HTML:
